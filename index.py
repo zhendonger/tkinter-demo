@@ -84,9 +84,9 @@ def show_info():
     # imagefile=tk.PhotoImage(file='71.gif')
     image1=canvas.create_image(0,0,anchor='nw',image=imagefile)
     canvas.pack(side='top')
-    tk.Label(window_info_up,text='My heart is you ! My liver is you ! My baby is you !').place(x=80,y=100)
-    tk.Label(window_info_up,text='My heart is you ! My liver is you ! My baby is you !').place(x=80,y=140)
-    tk.Label(window_info_up,text='My heart is you ! My liver is you ! My baby is you !').place(x=80,y=180)
+    tk.Label(window_info_up,text='No matter how far you may fly, never forget where you come from.').place(x=25,y=100)
+    tk.Label(window_info_up,text='No matter how far you may fly, never forget where you come from.').place(x=25,y=140)
+    tk.Label(window_info_up,text='No matter how far you may fly, never forget where you come from.').place(x=25,y=180)
 
     bt_logquit=tk.Button(window_info_up,text='退出',command=usr_sign_quit)
     bt_logquit.place(x=430,y=10)

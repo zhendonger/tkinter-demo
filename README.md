@@ -8,13 +8,16 @@ Python GUI编程(Tkinter)
 pip3 install Pillow
 ```
 
-##运行效果：
+## 运行效果：
 
-###1.登陆界面
+1.登陆界面
+
 ![avatar](./img/login.jpeg)
 
-###1.注册界面
+2.注册界面
+
 ![avatar](./img/sign.jpeg)
 
-###1.登陆界面
+3.登陆成功界面
+
 ![avatar](./img/home.jpeg)
